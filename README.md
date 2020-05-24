@@ -95,6 +95,8 @@ This boss worked fairly well, at least for the first two phases. For the first p
 
 Although the first two phases felt satisfying, the third phase was definitely too fragile, without any significant ability to maintain distance from his attackers. I had intended for this boss to stay high up in the air and let the storm wear the party down, but they were able to stay on top of him far too easily. Starting the storm in Blizzard might have made it easier for him to get some distance, as it would have obscured him from the party.
 
+Additionally, for this and the next boss, the party had very powerful allies - four dragons, a flying unicorn, and a walking colossus. Without these, this boss would likely have been far more difficult, and the following boss would have been almost impossible.
+
 ### Kentimane, the First Titan
 
 This boss ended up being an unusual one, in that it had so much potential damage that the only way to safely engage it was to try and finish it off while keeping it stunned via our monk's Stunning Blows. If anything, this highlighted how absurdly powerful that ability is in a game that prominently features boss fights, and I am planning on reducing its effectiveness to compensate for how strong it is in this case. That said, I think that for Kentimane in particular, letting him continue to attack through his hands could have been one way to keep the party from feeling too safe while he was stunned, or giving him some way to try and shrug off being stunned.
