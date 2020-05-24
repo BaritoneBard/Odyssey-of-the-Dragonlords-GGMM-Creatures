@@ -88,3 +88,13 @@ I think Chalcia ended up being a pretty balanced boss for her level, the issue i
 This boss was rather fun to play, although I feel I may have mishandled the twist at the end of this fight. Icarus is presented here as a really simple boss fight, little different from the default stat block for an ancient silver dragon, save for having the Reckless and Rampage traits.
 
 The main gimmick of this boss is the fact that Icarus gains a level of exhaustion at the start of each of his turns (not represented in the stat block), eventually dying due to this. When I ran Icarus, I had the third level of exhaustion cause him to lose 720 max health and current health, but this resulted in him being left with so little hp that he was eliminated in a couple more attacks - barely giving him time to change from attacking the party to begging for help, as I had intended for him to do. If I were to run this again, I'd instead leave the boss's current health untouched, reducing it only if it was above 720 before reaching three levels of exhaustion.
+
+### Sydon, the Emperor / Sydon, Lord of Storms
+
+This boss worked fairly well, at least for the first two phases. For the first phase of the fight, Sydon is a Defender, with very high AC and a hard-hitting Glaive attack. In the second phase, he switches to a Striker, imbuing his Glaive with lightning and gaining the ability to stun enemies. Finally, in the third phase, Sydon hovers high above the ground as a Sniper, dealing passive damage to everyone via the storm he conjures, while firing off devastating spells.
+
+Although the first two phases felt satisfying, the third phase was definitely too fragile, without any significant ability to maintain distance from his attackers. I had intended for this boss to stay high up in the air and let the storm wear the party down, but they were able to stay on top of him far too easily. Starting the storm in Blizzard might have made it easier for him to get some distance, as it would have obscured him from the party.
+
+### Kentimane, the First Titan
+
+This boss ended up being an unusual one, in that it had so much potential damage that the only way to safely engage it was to try and finish it off while keeping it stunned via our monk's Stunning Blows. If anything, this highlighted how absurdly powerful that ability is in a game that prominently features boss fights, and I am planning on reducing its effectiveness to compensate for how strong it is in this case. That said, I think that for Kentimane in particular, letting him continue to attack through his hands could have been one way to keep the party from feeling too safe while he was stunned, or giving him some way to try and shrug off being stunned.
